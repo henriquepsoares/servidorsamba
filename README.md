@@ -54,4 +54,3 @@ Henrique Soares (He/Him)
 🚀 Infrastructure as Code (IaC)
 🌐 Networking & Cybersecurity
 📡 Cisco Meraki
-📍 Edinburgh / London
